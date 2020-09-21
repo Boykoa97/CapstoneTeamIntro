@@ -11,6 +11,8 @@ class CalculatorTest {
         assertEquals(15, test.add(5,10));
         assertEquals(2, test.add(6,-4));
     }
+    
+    
     @Test
     void testSubtract() {//Ran three tests, one with two positive numbers, one with a positive and a negative, and one with two negatives. 
     	Calculator test = new Calculator();
