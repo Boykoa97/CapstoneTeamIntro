@@ -1,4 +1,4 @@
-// This calculator object use methods to mimic specific actions of a calculator
+// This calculator object use methods to mimic specific actions of a calculator.
 public class Calculator {
     public Calculator(){
     }
