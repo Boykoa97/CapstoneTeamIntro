@@ -3,9 +3,9 @@
 This project will be making a simple calculator in java. 
 
 It will have 3 features:
-ADD
-SUBTRACT
-MULTIPLY
+ADD (which adds 2 integers together)
+SUBTRACT (which subtracts 2 integers from each other)
+MULTIPLY (which multiplies 2 integers by each other)
 
 Each team member will do one of these tasks. 
 
