@@ -12,3 +12,5 @@ Each team member will do one of these tasks.
 Each member is responsible to provide a test case for their code. 
 
 This uses java version 11 and JUnit5.4
+
+This is for testing Phil's ability to connect and show contribution to the repo
